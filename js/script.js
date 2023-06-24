@@ -4,7 +4,6 @@ class Curso{
         this.id = id;
         this.tipo = tipo;
         this.precio = precio;
-        this.cupo = cupo;
         this.descripcion = descripcion;
     }
 }
